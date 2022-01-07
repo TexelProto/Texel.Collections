@@ -21,8 +21,8 @@
     </dependencies>
   </metadata>
   <files>
-    <!--        <file src="LICENSE"/>-->
-    <!--        <file src="README.md"/>-->
+    <file src="LICENSE"/>
+    <file src="README.md"/>
     <file src="bin/Release/net47/Texel.Collections.dll" target="lib/net47" />
     <file src="bin/Release/net48/Texel.Collections.dll" target="lib/net48" />
     <file src="bin/Release/netcoreapp3.1/Texel.Collections.dll" target="lib/netcoreapp3.1" />
